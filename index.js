@@ -5,3 +5,6 @@ const filteredPeople = people.filter((person) => (
 ));
 
 console.log(filteredPeople);
+console.log(filteredPeople);
+console.log(filteredPeople);
+console.log(filteredPeople);
